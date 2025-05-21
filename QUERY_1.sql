@@ -1,2 +1,0 @@
---CHECK FOR SQL QUERY UPDATE
--- New Update
