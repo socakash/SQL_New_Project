@@ -1,6 +1,6 @@
 # SQL_New_Project
 ## Introduction
-Detailed analysis of job market! Focusing on data roles, this project explores  *top-paying jobs, * in-demand skills, and * where high demand meets high salary in data analytics.
+Detailed analysis of job market! Focusing on data roles, this project explores  top-paying jobs,  in-demand skills, and  where high demand meets high salary in data analytics.
 
 Check them out here:[SQL_NEW_PROJECT](/1_Top_paying_jobs.sql)
 ## Background
